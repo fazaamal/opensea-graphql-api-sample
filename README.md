@@ -1,5 +1,5 @@
 # OpenSea GraphQL API endpoint
-### Get OpenSea data from the hidden graphql endpoints. Easy to use, ready to be integrated into your Dapp or script. Written in NodeJS with Express JS for the API. Message me on Discord fazemale#3392 or Telegram @fazemale. For more info and subscription prices.
+Get OpenSea data from the hidden graphql endpoints. Easy to use, ready to be integrated into your Dapp or script. Written in NodeJS with Express JS for the API. Message me on Discord fazemale#3392 or Telegram @fazemale. For more info and subscription prices.
 
 ## Here are some screenshot samples:
 
